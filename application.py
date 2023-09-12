@@ -12,7 +12,9 @@ import pandas as pd
 import csv
 
 
-app = Flask(__name__)
+application = Flask(__name__)
+
+app = application
 
 @app.route("/", methods = ['GET'])
 def homepage():
