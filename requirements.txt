@@ -1,5 +1,5 @@
 flask
 flask_cors
-requests
 bs4
-pymongo
+pymongo==4.2.0
+requests==2.28.0
