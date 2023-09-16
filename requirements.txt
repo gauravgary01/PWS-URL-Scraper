@@ -3,3 +3,4 @@ flask_cors
 bs4
 pymongo==4.2.0
 requests==2.28.0
+pandas
